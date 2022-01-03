@@ -18,10 +18,10 @@ section{
 .half-width{
     width:50%;
     padding-left: 5%;
+    margin-top: 5%;
 }
 .half-width img{
-    margin-top: 5%;
-    width: 80%;
+    width: 95%;
 }
 .link-button{
     text-decoration: none;
